@@ -53,12 +53,7 @@ The models are trained on the most frequently occurring apparel categories.
 
 
 ## Report
-Read the full report here: **[Report Link]**
-
----
-
-## Inference Code
-Hugging Face deployment code: **[Code Link]**
+Read the full report here: [VR Report](VR_REPORT_FINAL.pdf)
 
 ---
 
