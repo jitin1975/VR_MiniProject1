@@ -51,30 +51,6 @@ The models are trained on the most frequently occurring apparel categories.
   - `Segmentation/unet-scratch.ipynb`
   - `Segmentation/unet-transfer-learning.ipynb`
 
----
-
-## Project Structure
-VR_MiniProject1/
-│
-├── Classification/
-│ ├── resnet-final.ipynb
-│ ├── vr-classification.ipynb
-│
-├── Segmentation/
-│ ├── unet-scratch.ipynb
-│ ├── unet-transfer-learning.ipynb
-│ ├── vr-mask-rcnn-transfer_learning.ipynb
-│ ├── vr_mask_rcnn_scratch.ipynb
-│ ├── yolo_final.ipynb
-│
-├── preprocessing/
-│ └── (data preprocessing scripts / notebooks)
-│
-├── VR_Report.pdf
-├── README.md
-
-
----
 
 ## Report
 Read the full report here: **[Report Link]**
